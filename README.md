@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="Prohori_Logo.png" alt="Prohori Logo" width="200"/>
+  <img src="Prohori_Logo.png" alt="Prohori Logo" width="600"/>
 </p>
 
 <!-- Title Banner -->
@@ -12,9 +12,9 @@
   <b style="color:purple;">🛡️ Smart Security for a Safer Tomorrow</b>
 </h3>
 
-<p align="center">
+<h3 align="center">
   <b>🚨 Crime Prevention & Missing Person Finder App</b>
-</p>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge">
