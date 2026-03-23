@@ -1,9 +1,19 @@
+<!-- Logo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=🛡️%20Prohori%20(প্রহরী)&fontSize=32&width=900&height=120&color=0:36BCF7,100:0f2027&section=header"/>
+  <img src="Prohori_Logo.png" alt="Prohori Logo" width="200"/>
 </p>
 
+<!-- Title Banner -->
 <p align="center">
-  <b>Crime Prevention & Missing Person Finder App</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Prohori%20(প্রহরী)&fontSize=36&width=1200&height=150&color=0:36BCF7,100:0f2027"/>
+</p>
+
+<h3 align="center">
+  <b style="color:purple;">🛡️ Smart Security for a Safer Tomorrow</b>
+</h3>
+
+<p align="center">
+  <b>🚨 Crime Prevention & Missing Person Finder App</b>
 </p>
 
 <p align="center">
@@ -15,54 +25,60 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Abstract Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Overview&fontSize=32&width=1200&height=130&color=0:9D50BB,100:6E48AA" width="100%">
 
-## 📌 Introduction
-**Prohori (প্রহরী)** is an innovative mobile application designed to enhance community safety and security. It enables users to report crimes and helps in locating missing persons through a centralized and user-friendly platform.
+**Prohori (প্রহরী)** is an innovative **mobile-based safety and security platform** designed to enhance community awareness and protection.  
 
-The system bridges the gap between the public and law enforcement by facilitating real-time reporting, searching, and information sharing.
+It enables users to report crimes, track incidents, and assist in locating missing persons through a centralized and user-friendly system.  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+The platform bridges the gap between **citizens and law enforcement agencies**, enabling real-time reporting, searching, and information sharing.  
 
-
-## 🎯 Objectives
-- Enable users to report crimes and missing persons  
-- Allow users to search for crimes and missing persons in their area  
-- Provide a platform for sharing information to assist in finding missing individuals  
+**Keywords:** Public safety, crime reporting, missing persons, mobile security system, community protection.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Objectives Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Objectives&fontSize=32&width=1200&height=130&color=0:FF416C,100:FF4B2B" width="100%">
 
-
-## 🚀 Features
-- 🔐 Authentication System  
-- 🚨 Report Crimes  
-- 🧍 Report Missing Persons  
-- 📝 Lodge Complaint  
-- 🔍 Search Crimes  
-- 🔎 Search Missing Persons  
+- 🚨 Enable users to report crimes efficiently  
+- 🧍 Facilitate reporting of missing persons  
+- 🔍 Allow searching for incidents and individuals  
+- 🤝 Provide a collaborative platform for community-driven safety  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Features Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Key%20Features&fontSize=32&width=1200&height=130&color=0:00F260,100:0575E6" width="100%">
 
+- 🔐 Secure Authentication System  
+- 🚨 Crime Reporting Module  
+- 🧍 Missing Person Reporting  
+- 📝 Complaint Lodging System  
+- 🔍 Crime Search Functionality  
+- 🔎 Missing Person Search System  
 
-## 👥 Stakeholders
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Stakeholders Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Stakeholders&fontSize=32&width=1200&height=130&color=0:FC5C7D,100:FF416C" width="100%">
+
 - 👮 Law Enforcement Agencies  
 - 👨‍👩‍👧 Families and Friends of Missing Persons  
 - 🏢 Community Organizations  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Technology Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Technology%20Stack&fontSize=32&width=1200&height=130&color=0:6A82FB,100:FC5C7D" width="100%">
 
-
-## 🛠️ Tools and Technologies
 - **Frontend:** Android Studio (Java)  
-- **Backend:** SQLite (Database Management)  
+- **Backend:** SQLite Database  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-
-
-## 🖼️ Implementation
+<!-- Implementation Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=System%20Implementation&fontSize=32&width=1200&height=130&color=0:00F260,100:0575E6" width="100%">
 
 ### 📱 Application Screens
 - Splash Screen  
@@ -92,34 +108,37 @@ The system bridges the gap between the public and law enforcement by facilitatin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Future Work Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Future%20Work&fontSize=32&width=1200&height=130&color=0:FF416C,100:FF4B2B" width="100%">
 
-
-## 🔮 Future Improvement Scope
-- 📍 Integration of **Google Maps** for area-based crime alerts  
+- 📍 Integration of Google Maps for location-based alerts  
 - 💬 In-app communication system  
-- 🔔 Real-time notifications for nearby incidents  
-- 🤖 AI-based crime pattern analysis *(future research scope)*  
+- 🔔 Real-time notifications  
+- 🤖 AI-based crime pattern analysis  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Conclusion Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Conclusion&fontSize=32&width=1200&height=130&color=0:6A82FB,100:FC5C7D" width="100%">
 
+**Prohori** provides a practical and efficient solution for improving **community safety and awareness**.  
 
-## ✅ Conclusion
-The **Prohori App** provides a practical and user-friendly solution for enhancing community safety. It enables users to report crimes, search for missing persons, and share crucial information efficiently.
+It empowers users to report crimes, search for missing persons, and share critical information, creating a **collaborative safety ecosystem**.  
 
-Although there is scope for further development, the application serves as a strong foundation for building a safer and more connected community.
+The system demonstrates strong potential for future expansion into a **fully integrated smart security platform**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Author Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Author&fontSize=32&width=1200&height=130&color=0:00F260,100:0575E6" width="100%">
 
-
-## 📎 Author
 **A. K. M. Masudur Rahman**  
-
 🎓 Department of Computer Science and Engineering (CSE)  
 🏫 Bangladesh Army University of Science and Technology (BAUST), Saidpur, Nilphamari  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⭐ Support
+<!-- Support Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Support&fontSize=32&width=1200&height=130&color=0:FF416C,100:FF4B2B" width="100%">
+
 If you like this project, consider giving it a ⭐ on GitHub!
